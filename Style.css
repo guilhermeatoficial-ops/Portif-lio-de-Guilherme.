@@ -1,0 +1,92 @@
+
+img{
+  width: 150px;
+  display: flex;
+}
+
+*{
+  font-family: 'Times New Roman', Times, serif;
+}
+  .estilo{
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+.eu {
+  background-color: #000;
+width: 165px;
+display: inline-block;
+padding: 20px;
+border-radius: 20px;
+}
+
+
+.botoes{}
+
+h3{
+  font-size: 11px;
+}
+.corF{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #335DA5;
+}
+.botao1{
+  display: flex;
+  font-size: 15px;
+  background-color: #000000;
+  padding: 20px;
+  height: 10px;
+  width: 200px;
+}
+  
+
+.tela{
+  display: flex;
+background: linear-gradient(100deg,#000000,#3a3a3a);
+width: 165px;
+padding: 15px;
+border-radius: 10px;
+}
+.nome{
+  display: flex;
+  width: 15px;
+  gap: 2px;
+}
+*{
+  margin: 5px;
+}
+border-color #FFFFFF
+
+header{
+  font-size: 12px;
+  line-height: 110%;
+  background-color: #FFFFFF;
+}
+body{
+  
+ background: linear-gradient(100deg,#000000,#3a3a3a);
+ transition: all 4s ease;
+ height: 135vh;
+  color: #FFFFFF;
+}
+body.claro{
+  background: linear-gradient(to bottom, #FFFFFF, #2F2C2C);
+  transition: all 4s ease;
+  color: #000000;
+
+}
+body.claro .estilo h1{
+background: inear-gradient(to bottom, #000000, #FFFFFF);
+  color: #FFFFFF;
+}
+section{
+  border-bottom: 1px solid #fff;
+
+  } 
+
+
+.fonte{
+  font-size: 13px;
+  
+}
